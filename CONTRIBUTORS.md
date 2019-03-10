@@ -3106,7 +3106,7 @@
 
 -[@benjaminblazevic](https://github.com/benjaminblazevic)
 
--[@maythe4thbewithyou] (https://github.com/maythe4thbewithyou)
+-[@maythe4thbewithyou](https://github.com/maythe4thbewithyou)
 
 -[@dejiabiola](https://github.com/dejiabiola)
 
@@ -3117,3 +3117,5 @@
 -[@Averei](https://github.com/Averei)
 
 -[@devchia254](https://github.com/devchia254)
+
+-[@adrianlzx1996](https://github.com/adrianlzx1996)
